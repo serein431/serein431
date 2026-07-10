@@ -68,13 +68,6 @@ serein431@localhost:~$ whoami
 
 <div align="center">
 
-<img height="165" alt="stats" src="https://github-readme-stats.vercel.app/api?username=serein431&show_icons=true&hide_title=true&hide_rank=false&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000&title_color=5EA6E5&icon_color=5EA6E5&text_color=808890&ring_color=5EA6E5" />
-<img height="165" alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=serein431&layout=compact&hide_border=true&bg_color=00000000&title_color=5EA6E5&text_color=808890&langs_count=8" />
-
-</div>
-
-<div align="center">
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/serein431/serein431/output/github-contribution-grid-snake-dark.svg">
   <img alt="contribution snake" src="https://raw.githubusercontent.com/serein431/serein431/output/github-contribution-grid-snake.svg">
