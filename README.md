@@ -64,6 +64,20 @@ serein431@localhost:~$ whoami
 
 <br />
 
+## `~/upstream` &nbsp;// &nbsp;merged contributions
+
+```text
+[Codex-Manager]
+  result    fixed session failures after a Codex update
+  result    fixed local gateway account detection
+  status    merged upstream // PR #346
+  proof     https://github.com/qxcnm/Codex-Manager/pull/346
+```
+
+[![Codex-Manager](https://img.shields.io/badge/Codex--Manager-merged%20PR%20%23346-5EA6E5?style=flat-square&labelColor=0d1117&logo=github&logoColor=5EA6E5)](https://github.com/qxcnm/Codex-Manager/pull/346)
+
+<br />
+
 ## `~/telemetry`
 
 <div align="center">
